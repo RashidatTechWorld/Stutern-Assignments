@@ -1,3 +1,8 @@
+# Create an class called car
+# Give 5 attributes of the car class
+# Give 5 methods of the car class
+# Ensure the class is working as expected
+# Push your code to github
 class Car:
     def __init__ (self, brand, price, colour, miles, fuelguage):
         self.brand = brand
